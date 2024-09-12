@@ -1,0 +1,13 @@
+{
+  "cache": {
+    "files": {
+      "essential": [
+        "build/*"
+      ],
+      "ignore": [
+        "sw.js",
+        "CNAME"
+      ]
+    }
+  }
+}
