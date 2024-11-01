@@ -1,24 +1,24 @@
 
 <h1>Amenities</h1>
-<li>Covered and Uncovered Moorage Slips </li>
-<li>Property Manager on Site & Canal Marina Office</li>
+<li>Covered and Uncovered Moorage Slips</li>
+<li>Property Manager on Site </li>
 <li>Wi-Fi Service</li>
-<li>Shower & Bathroom Facilities</li>
-<li>Laundry Facility</li>
-<li>Kayak & Canoe Storage</li>
-<li>Secure Bicycle Storage</li>
+<li>Restroom & Shower Facilities</li>
+<li>Coin-Operated Laundry</li>
+<li>Kayak, Canoe & Paddle Board Storage</li>
+<li>Covered Bicycle Storage</li>
 <li>Motorcycle & Moped Tie-Ups</li>
-<li>Free Parking Limited Houseboat Moorage</li>
-<li>Security Fence to Al Docks with Keyed Entry Gates</li>
-<li>Garbage & Recycling Service</li>
-<li>Electrical Hookups to Boats</li>
-<li>Individual Water Spigots to Each Marina Slip</li>
-<li>Secure Nighttime Lighting</li>
-<li>Mailboxes o n Site</li>
-<li>Limited Tenant Vegetable Gardens</li>
+<li>Free Parking</li>
+<li>Houseboat Moorage</li>
+<li>Dock Security Fence with Keyed Entry Gates</li>
+<li>Refuse & Recycling Services</li>
+<li>Shore Power</li>
+<li>Water</li>
+<li>Nighttime Dock Lighting</li>
+<li>Tenant Mailboxes</li>
+<li>Raised Beds for Tenants’ Vegetables, Herbs & Flowers</li>
 <li>Tenant BBQ Facility</li>
-<li>Gazebo with Lawn for Year Around Tenant Functions</li>
-<li>Tenant Storage Facilities</li>
+<li>Gazebo with Lawn Area for Year-Round Tenant Functions</li>
+<li>Tenant Storage Units</li>
 <li>Dog Release Station with Bags</li>
-<li>Email Service to Keep Tenants Up to Date on Latest Dev</li>
 

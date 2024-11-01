@@ -1,19 +1,19 @@
 <h1>Location</h1>
-<address>CANAL MARINA, LLC.
-    360 West Ewing Street
-    Seattle, WA 98119
+<address>CANAL MARINA, LLC--<br>
+    360 West Ewing Street<br>
+    Seattle, WA 98119<br>
 </address>
-<p>
-    Canal Marina is located on the Lake Washington Ship Canal. It is immediately
-    across from the Burke-Gilman Trail and only steps from Seattle Pacific
-    University. The marina can be found between the Freemont and Ballard bridge
-    and a close hop to the Freemont restaurant and entertainment district and
-    close to the Ballard shopping area as well as lower Queen Anne Hill and
-    Magnolia. It is only minutes to downtown Seattle, University of Washington
-    and Gas Works Park. The Space Needle is only a thirteen-minute drive from
-    the marina.
-    
-</p>
+<main>
+    <p>
+        Canal Marina is on the south side of the Lake Washington Ship Canal. It
+        is next to the Burke-Gilman Trail and only steps from Seattle Pacific
+        University. The marina can be found between the Freemont and Ballard bridges
+        and a close hop to the Freemont Restaurant and Entertainment District and
+        the historic Queen Anne Neighborhood. It is only minutes to downtown Seattle,
+        the University of Washington, Gas Works Park, and the Space Needle. 
+        
+    </p>
+</main>
 <!-- Add the embedded Google Map -->
 <div class="map-container">
     <iframe

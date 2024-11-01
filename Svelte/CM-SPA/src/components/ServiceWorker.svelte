@@ -66,7 +66,7 @@
   <div id="container" out:fade={{ duration: 1000 }}>
     {#if pageLoaded}
       <!-- Icon -->
-      <img id="icon" src="favicon.svg" alt="">
+      <img id="icon" src="favicon.png" alt="">
 
       <!-- Spinner -->
       <div id="spinner" in:fade={justUpdated ? { duration: 0 } : { duration: 1000, delay: 200 }}>

@@ -2,7 +2,7 @@
 
 const cacheName = `0.1.0`; // Change value to force update
 const essentialFilesToCache = `["./","build/main.js","build/bundle.css"]`; // Generated filenames as string array
-const secondaryFilesToCache = `["main.css","index.html","fremont_bridge.png","favicon.svg","aerial_view_orig.jpeg","aerial_view.jpeg","CM_logo.png","icofont/icofont.min.css"]`; // Generated filenames as string array
+const secondaryFilesToCache = `["main.css","index.html","fremont_bridge.png","favicon.svg","favicon.png","aerial_view_orig.jpeg","aerial_view.jpeg","CM_logo_SM_light.png","CM_logo_SM_dark.png","CM_logo_LG_light.png","CM_logo_LG_dark.png","CM_logo.png","CM_Banner_light_mobile.png","CM_Banner_light.png","CM_Banner_dark_mobile.png","CM_Banner_dark.png","CM-aerial-7.jpg:Zone.Identifier","CM-aerial-7.jpg","CM-aerial-6.jpg:Zone.Identifier","CM-aerial-6.jpg","CM-aerial-5.jpg:Zone.Identifier","CM-aerial-5.jpg","CM-aerial-4.jpg:Zone.Identifier","CM-aerial-4.jpg","CM-aerial-3.jpg:Zone.Identifier","CM-aerial-3.jpg","CM-aerial-2.jpg:Zone.Identifier","CM-aerial-2.jpg","CM-aerial-1.jpg:Zone.Identifier","CM-aerial-1.jpg","icofont/icofont.min.css"]`; // Generated filenames as string array
 
 self.addEventListener("install", event => {
 

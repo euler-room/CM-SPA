@@ -1,9 +1,4 @@
 
-/* Global Vars */
-:root {
-  /* Vars here will be accessible anywhere in the app */
-}
-
 /* Light Color Scheme (Default) */
 :root {
   --background-color: #fcfcfc;
@@ -19,41 +14,17 @@
     --accent-color: rgb(0, 54, 9);
   }
 }
-
-/* Base styles */
-body {
-  font-family: Arial, sans-serif;
-  margin: 0;
-  padding: 0;
-}
-.title {
-  font-size: 96px;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
-}
-.address {
-  font-size: 48px;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
-}
-
-.column-left {
-  padding: 30px;
-  float: left;
-  width: 10%;
-}
-.column-right {
-  float: right;
-  width: 75%;
-}
-
-
-/* Clear floats after the columns */
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
+@media (min-width: 640px) {
+  #cm-banner-desktop {
+    display: block;
+  }
+  #cm-banner-mobile {
+    display: none;
+  }
 }
 
 header > nav {
+  padding-left: 1.5em;
   display: flex;
   gap: 1rem;
   align-items: center;
@@ -66,16 +37,20 @@ header > nav {
   color: #031c4e;
 }
 /* Mobile styles */
-@media (max-width: 1000px) {
-  .column-left{
-
+@media (max-width: 640px) {
+  header > nav {
+    flex-direction: column;
+    gap: 0.5rem;
   }
-  .column-right{
-
+  #cm-banner-desktop {
+    display: none;
   }
-  
-
-  /* Add more styles as needed */
+  #cm-banner-mobile {
+    align-items: center;
+    display: flex;
+    padding-left: 10%;
+    padding-right: 5%;
+  }
 }
 /* border box-sizing */
 * {
@@ -93,7 +68,7 @@ html, body {
 
 /* main, header, and footer */
 main, header, footer {
-  max-width: 1024px;
+  max-width: 640px;
   margin: 0 auto;
   padding: 1rem;
 }
@@ -116,4 +91,8 @@ code {
 /* paragraphs */
 p {
   line-height: 1.5;
+}
+#CM-photo-carousel {
+  display: block;
+  margin: 0 auto;
 }
